@@ -91,12 +91,14 @@ Git — это распределенная система контроля ве
 - [Официальная документация Git](https://git-scm.com/doc)
 
 Этот файл был создан при помощи языка разметки, но в нём есть ещё некоторые возможности, которые я не использовал.  Например, можно работать с картинками
-![Вот так:](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYvt0fhZAfYmnGhoA6DgZmMk3k_7Ma3zcR_w&s)
+
+![Картинка](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYvt0fhZAfYmnGhoA6DgZmMk3k_7Ma3zcR_w&s)
 
 Также здесь есть возможность форматирования кода, например:
-\```javascript
+
+```javascript
 console.log("Hello, world!")
-\```
+```
 
 
 
